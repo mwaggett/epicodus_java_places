@@ -1,0 +1,7 @@
+<h1>Here is your list of locations you've been:</h1>
+<ul>
+#foreach ($location in $locationsList)
+  <li>$location.getLocation()</li>
+#end
+</ul>
+<a href="/">Go Back</a>
