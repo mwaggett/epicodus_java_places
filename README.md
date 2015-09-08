@@ -1,19 +1,21 @@
-# _{Places I've Been!}_
+# Places I've Been!
 
-##### _{This app will create and display a list of places you have been}, {8/18/2015}_
+##### _Create and display a list of places you have been, 18 August 2015_
 
-#### By _**{Aimee Reiss and Molly Waggett}**_
+#### By **Aimee Reiss and Molly Waggett**
 
 ## Description
 
-_{The app will ask you to add a place where you have been.  It will take the place and create an array list.  The array list will be displayed on the next page.  You can then press the go back button to add another place.  It will add that place to your list while also showing the other places you added previously.}_
+The app will ask you to add a place where you have been.  It will take the place and create an array list.  The array list will be displayed on the next page.  You can then press the go back button to add another place.  It will add that place to your list while also showing the other places you added previously.
 
 ## Setup
 
 * Clone this repository.
 * Using the command line, navigate to the top level of the cloned directory.
 * Make sure you have gradle installed. Then run the following command in your terminal:
-* _gradle run_
+```
+gradle run
+```
 * Go to localhost:4567.
 * Play!
 
@@ -28,7 +30,7 @@ _{The app will ask you to add a place where you have been.  It will take the pla
 
 ### Legal
 
-Copyright (c) 2015 **_{Aimee Reiss and Molly Waggett}_**
+Copyright (c) 2015 **Aimee Reiss and Molly Waggett**
 
 This software is licensed under the MIT license.
 
