@@ -1,6 +1,6 @@
 # Places I've Been!
 
-##### _Create and display a list of places you have been, 18 August 2015_
+##### _Create and Display Places You've Been for Epicodus, 18 August 2015_
 
 #### By **Aimee Reiss and Molly Waggett**
 
